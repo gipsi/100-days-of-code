@@ -1,22 +1,100 @@
-# I've joined the #100DaysOfCode Challenge.
+# 100 Days of Code - Log
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
 
-## If you've decided to join:
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. Change the date in [Rules](rules.md) to the day you've started the challenge.
-5. Delete the examples in the log, or comment them out, and start filling it with your own content.
-6. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-7. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets all the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-8. Important: Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+# I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+
+### Day 5: 2017-01-07
+
+**Today's Progress:** More work on this page using Google Chrome, Windows 7 Desktop and Atom editor.
+
+This :
+
+> ## Template
+
+> ### Day : 2017-
+
+> **Today's Progress:**
+
+> **Thoughts:**
+
+> **Link to work:**
+
+Made by [Thoragio](https://github.com/thoragio/100-days-of-code/blob/master/README.md)
+helped a lot - thank you!
+
+**Thoughts:** Looking at 100 Days of code repo [suggested resources](https://github.com/Kallaway/100-days-of-code/blob/master/resources.md)
+I'd also recommend:
+* ["The Meditations" by Marcus Aurelius](https://librivox.org/the-meditations-of-marcus-aurelius/)  
+I'm currently listening to the audiobook on Librivox.
+
+* [The Stoic: 9 Principles to Help You Keep Calm in Chaos]
+(http://99u.com/articles/24401/a-makers-guidebook-9-stoic-principles-to-nurture-your-life-and-work)
+
+Is an outline of the principles of Stoicism which he practiced.
+
+> "The goal of Stoicism is to attain inner peace by overcoming adversity"
+
+**Link to work:** This Page.
+
+
+
+### Day 4: 2017-01-06
+
+**Today's Progress:** Tidied up GitHub blog page.
+
+**Thoughts:** All on Android phone, battery too low to explain.
+
+**Link to work:** https://gipsi.github.io
+
+
+
+### Day 3: 2017-01-06
+
+**Today's Progress:** Trying to figure out if I can switch off Jekyll Theme and
+use only html/css and also thinking about reversing this (bullet list) and write
+at the top, and put in chapters (blog style).
+
+**Thoughts:** Used the Jekyll [Minimal Theme by orderedlist](https://github.com/orderedlist/minimal)
+
+**Link to work:** [gipsi.github.io](https://gipsi.github.io)
+
+
+
+### Day 2: 2017-01-04
+
+**Today's Progress:** An Enki workout - Javascript Core
+
+**Thoughts:** About habits, routines and and commitments.
+
+**Link to work:**  Signed up to a reminder list from Enki [“Make Open Source
+your 2017 Resolution”@MathieuDutour](https://blog.enki.com/make-open-source-your-2017-resolution-ec1a4569d43)
+
+
+
+### Day 1: 2017-01-03
+
+**Today's Progress:** Learning [Markdown](https://daringfireball.net/projects/markdown/)
+
+**Thoughts:** This is my third start of [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b)   
+I did the first 100 and carried on to do another 50 Days.  During that time I did FreeCodeCamp, SoloLearn
+Enki ... And although I managed to code at  least an hour each day I did not
+get around to keeping this log on Github. So having spent time regularly visiting
+Through December then halfway through finding [#Commitmas-3 Return of Commitmas](https://github.com/gipsi/commitmas-3-return-of-commitmas/blob/master/README.md)
+with a great selection of videos and podcasts to help stay on track, here goes!
+
+**Link to work:** [gipsi.github.io](https://gipsi.github.io)
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+## Template
+
+### Day : 2017-
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
