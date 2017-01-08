@@ -3,6 +3,14 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+### Day 6: 2017-01-08
+
+**Today's Progress:** Some tinkering with Freecodecamp portfolio on CodePen. Html hyperlinks.  Put in some images, buttons - placeholders.  Changed CSS background colours. Found out what target="blank" means from w3school.
+
+**Thoughts:** Coming back to do some work on this project makes it feel easier.  Changing some of the images and moving things around, all in the pen helps reinforce what I'm doing ... didn't manage to centre bottom button though.
+
+**Link to work:** [FreeCodeCamp Portfolio on CodePen](http://codepen.io/gipsi/full/VmzPJg/)
+
 
 ### Day 5: 2017-01-07
 
