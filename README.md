@@ -3,6 +3,16 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+### Day  7: 2017-01-09
+
+**Today's Progress:** HTML5, CSS3 and Bootstrap in CodePen. More progress with Portfolio 
+Changing colours and images, a bit of real text instead of "Kitty ipsum"
+
+**Thoughts:** Reading [The War of Art by Steven Pressfield](http://www.stevenpressfield.com/the-war-of-art/) and practicing mindful stoicism.
+
+
+**Link to work:** [Freecodecamp Portfolio on CodePen](http://codepen.io/gipsi/full/VmzPJg/)
+
 ### Day 6: 2017-01-08
 
 **Today's Progress:** Some tinkering with Freecodecamp portfolio on CodePen. Html hyperlinks.  Put in some images, buttons - placeholders.  Changed CSS background colours. Found out what target="blank" means from w3school.
@@ -57,8 +67,7 @@ Is an outline of the principles of Stoicism which he practiced.
 
 
 
-### Day 3: 2017-01-06
-
+### Day 3: 2017-01-05
 **Today's Progress:** Trying to figure out if I can switch off Jekyll Theme and
 use only html/css and also thinking about reversing this (bullet list) and write
 at the top, and put in chapters (blog style).
