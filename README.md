@@ -3,7 +3,8 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
-#•#•#• •D•a•y• •9:• •2•0•1•7•-•01-11•
+ #•#•#• •D•a•y• •9:• •2•0•1•7•-•01-11•
+
 **Today's Progress:**  html and css on my webpage project.  Looked up how to make some text into a link then did it three times.
 
 **Thoughts:** Keep simplifying which leads to thinking about the meaning of words quite a bit.
