@@ -3,6 +3,16 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+ ### Day 12: 2017-01-14
+
+ **Today's Progress:** Good progress with code editor on phone.  Made my 'core functionality html page' saved it and added a css colored background.
+
+ **Thoughts:** Interesting trying to code on phone and quite pleased with how much I can do offline.
+
+Online didnt go so well  and changing the background color of my portfolio page in codepen didn't work .
+
+ **Link to work:**  Reading about [UX Honeycombe on Peter Morville's blog](http://intertwingled.org/user-experience-honeycomb/)
+
 ### Day 11: 2017-01-13
 
 **Today's Progress:** Testing different code editors on phone settled on AWD as it's the first one I successfully previewed the result.  
