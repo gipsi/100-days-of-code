@@ -3,6 +3,10 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+Day 13: 2017-01-15
+Today's Progress:From markdown to markup-html and css
+Thoughts: Mostly about css.
+Link to work: Reading Shay Howe 
  ### Day 12: 2017-01-14
 
  **Today's Progress:** Good progress with code editor on phone.  Made my 'core functionality html page' saved it and added a css colored background.
