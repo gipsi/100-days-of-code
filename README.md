@@ -32,7 +32,8 @@ Android, WebSafe colour site. Internet router, pc, phone ...
 **Link to work:** https://codepen.io/gipsi/pen/pRPbaq
 
 
- ### Day 18: 2017-01-20
+
+### Day 18: 2017-01-20
  
 **Today's Progress:** 4/50 css images tiger
 
@@ -40,10 +41,11 @@ Android, WebSafe colour site. Internet router, pc, phone ...
 
 **Link to work:** https://codepen.io/gipsi/pen/WRpaVM
 
- 
- ### Day 17: 2017-01-19
 
- **Today's Progress:** Good progress with 3rd css image-beaver. It is different using pc tools
+ 
+### Day 17: 2017-01-19
+
+**Today's Progress:** Good progress with 3rd css image-beaver. It is different using pc tools
  not entirely better.  Indeed some things like taking screenshot and uploading to cloud feels easier on phone.
  
  **Thoughts:** Doing something every day certainly helps the learning process.  css images 50 is a great project and the tutorial on medium explains things  really well ... and its fun!
