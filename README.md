@@ -75,7 +75,6 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
 **Link to work:** https://codepen.io/gipsi/details/MJjxww/
 
 
- **Link to work:**  https://codepen.io/gipsi/details/MJjxww/
 
 ### Day  14: 2017-01-16
 
@@ -84,6 +83,8 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
  **Thoughts:** Email from css images challenge cheered me up and I forked and modified the Portfolio Template.  Experimented with different colours for a bit to see how that works.  I think Codepen is great for reading and playing around with code.
 
  **Link to work:**  https://codepen.io/gipsi/details/MJjxww/
+ 
+ 
 
 ### Day 13: 2017-01-15
 
@@ -92,6 +93,8 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
 **Thoughts:** Mostly about css.
 
 **Link to work:** Reading Shay Howe 
+
+
 
 
  ### Day 12: 2017-01-14
@@ -103,6 +106,8 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
 Online didnt go so well  and changing the background color of my portfolio page in codepen didn't work .
 
  **Link to work:**  Reading about [UX Honeycombe on Peter Morville's blog](http://intertwingled.org/user-experience-honeycomb/)
+ 
+ 
 
 ### Day 11: 2017-01-13
 
@@ -113,6 +118,8 @@ scored 19/25 in W3schools HTML5 Quiz, so room for improvement.
 **Thoughts:** Reading Aaron Gustafson - Adaptive Web Design  https://adaptivewebdesign.info
 and The Jargon File. http://www.catb.org/jargon/html/R/recursive-acronym.html
 **Link to work:**  http://www.w3schools.com/html/html_quiz.asp (Not the qiz I did which was in an Andoid app, but I'll have a go with this one after some revision)
+
+
 
 ### Day 10 : 2017-01-12
 
@@ -129,6 +136,8 @@ Identify core functionality.Make that functionality available using the simplest
 <㹰 䄀渀 䔀砀攀爀挀椀猀攀 椀渀 挀漀爀攀 昀甀渀挀琀椀漀渀愀氀椀琀礀 㰀⼀瀀ਾ਀਀  㰀甀氀㸀਀    㰀氀椀㸀 圀攀戀 䌀爀愀昀琀 㰀⼀氀椀㸀਀    㰀氀椀㸀 圀攀戀 䌀漀搀攀 㰀⼀氀椀㸀਀    㰀氀椀㸀 圀攀戀 䘀漀氀欀 㰀⼀氀椀㸀਀  㰀⼀甀氀㸀਀਀㰀⼀戀漀搀礀㸀਀਀㰀⼀栀琀洀氀㸀਀
  
  
+ 
+ 
  #•#•#• •D•a•y• •9:• •2•0•1•7•-•01-11•
 
 **Today's Progress:**  html and css on my webpage project.  Looked up how to make some text into a link then did it three times.
@@ -140,6 +149,8 @@ Changed definition of what I'm  learning from  code
 to software. Read loads about this. Software development, Software engineering, agile, programming, coding, computer science etc.
 
 **Link to work:** https://codepen.io/gipsi/full/VmzPJg/
+
+
 
 ### Day 8:  2017-01-10
 **Today's Progress:**  Important breakthrough reading [Jeremy Kieth's Resilient Web Design](https://resilientwebdesign.com)
