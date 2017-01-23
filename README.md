@@ -3,17 +3,16 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
- >* ### Day 21: "017-01-23 
+ ### Day 21: "017-01-23 
 
-> **Today's Progress:** Made a clock.
+ **Today's Progress:** Made a clock.
 
-> **Thoughts:** It was fun.
+ **Thoughts:** It was fun.
 
-> **Link to work:** http://s.codepen.io/gipsi/debug/ygXexN/NjrYzyoZvKQA
+ **Link to work:** http://s.codepen.io/gipsi/debug/ygXexN/NjrYzyoZvKQA
 
 
-
-* ### Day 20 2017-01-22
+### Day 20 2017-01-22
 
 **Today's Progress:** yak shaving
 
@@ -21,7 +20,8 @@
 
 **Link to work:** https://codepen.io/gipsi/full/MJjxww/
 
-* ### Day 19: 2017-01-21
+
+### Day 19: 2017-01-21
 
 **Today's Progress:** Fiver - Another pure css image.
 Using: Notepade++, CodePen, Chrome Browser, Windows 7,  Clodinary, Picture Editor,
@@ -32,30 +32,34 @@ Android, WebSafe colour site. Internet router, pc, phone ...
 **Link to work:** https://codepen.io/gipsi/pen/pRPbaq
 
 
-
- #•#•#• •D•a•y• 18:• •2•0•1•7•-01-20
+ ### Day 18: 2017-01-20
+ 
 **Today's Progress:** 4/50 css images tiger
 
 **Thoughts:** absorbing, have to concentrate, enjoying the process
 
 **Link to work:** https://codepen.io/gipsi/pen/WRpaVM
+
  
  ### Day 17: 2017-01-19
 
  **Today's Progress:** Good progress with 3rd css image-beaver. It is different using pc tools
  not entirely better.  Indeed some things like taking screenshot and uploading to cloud feels easier on phone.
+ 
  **Thoughts:** Doing something every day certainly helps the learning process.  css images 50 is a great project and the tutorial on medium explains things  really well ... and its fun!
 
  **Link to work:** https://codepen.io/gipsi/details/XppmNm
 
 
- #•#•#• •D•a•y• •:16• •2•0•1•7•-•01-18
+### Day 16: 2017-01-18
 
 **Today's Progress:** coded elephant picture, 2nd task for css daily challenge.  Slighly better than 1st image but still on a steep learning curve.  Getting the hang of doing it all on phone.
 
 **Thoughts:** Enjoying the challenge.  Much room for improvement.  Its good having a template and modifying it ... it works better when I do that on the phone then copy pasting into codepen rather than attempting it in the pen.  The most annoying thing in codepen is when I delete a couple of letters, wont stop and deletes a great chunk.
 
 **Link to work:**  https://codepen.io/gipsi/pen/MJjxww
+
+
 ### Day 15: 2017-01-17
 
 **Today's Progress:** First css image for #cssdailyimages.  All done on Android phone. 
