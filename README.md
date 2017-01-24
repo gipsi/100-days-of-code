@@ -3,6 +3,29 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+## Template
+
+### Day : 2017-
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 22 2017-01-24
+
+**Today's Progress:** Todays #dailycssimage was a ruler
+
+**Thoughts:** Some helpful tools I found doing Google searches
+  >*[text shadow generator](https://css3gen.com/text-shadow/)
+  >*[box-shadow generator](http://www.cssmatic.com/box-shadow)
+  >*[color hunt](http://colorhunt.co/)
+
+**Link to work:**  http://codepen.io/gipsi/
+
+
  ### Day 21: "017-01-23 
 
  **Today's Progress:** Made a clock.
