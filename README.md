@@ -13,6 +13,15 @@
 
 **Link to work:**
 
+### Day 23: 2017-01-25
+
+**Today's Progress:**  Getting a overall idea in my mind of a consistent style for this weeks tasks.  Made a notepad and changed Mondays clock to match.
+
+**Thoughts:** Trying to do the simplest code I can.
+I started this task with a picture of a notebook, then dropped that idea.  Found a code snipped on js fiddle.  Nice and easy.  The html just <textarea> tag with some text.  And Im finding I learn more by tweaking the css, experimenting.
+
+**Link to work:** [A notepad](https://codepen.io/gipsi/full/NdvOoG/)
+
 
 ### Day 22 2017-01-24
 
