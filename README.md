@@ -37,15 +37,10 @@ RawBlameHistory
 I've joined the #100DaysOfCode Challenge
 
 Template
-
-Day : 2017-
-
-Today's Progress:
-
-Thoughts:
-
-Link to work:
-
+Day 24: 2017-01-26
+Today's Progress:unfinished
+Thoughts:Had an idea for a calendar
+Link to work:https://codepen.io/gipsi/pen/YNrrwE
 Day 23: 2017-01-25
 
 Today's Progress: Getting a overall idea in my mind of a consistent style for this weeks tasks. Made a notepad and changed Mondays clock to match.
