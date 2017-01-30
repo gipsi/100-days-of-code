@@ -15,6 +15,23 @@
 
  
 I've joined the #100DaysOfCode Challenge
+
+### Day 28: 2017-01-30
+**Today's Progress:**css pizza
+**Thoughts:**learning
+**Link to work:** https://codepen.io/gipsi/pen/MJrGZB
+
+### Day 27: 2017-01-29
+**Today's Progress:**Reflecting. Updating pen
+**Thoughts:**frustrating day. Power cut
+**Link to work:**pen
+### Day 26  : 2017-01-28
+
+**Today's Progress:**Reading and updating blogs
+
+**Thoughts:**a bit of fcc thinking about style
+**Link to work:**codepen portfolio
+
 ### Day 25: 2017-01-27
 **Today's Progress:** css pencil jar - done  on android
 **Thoughts:** Codepen doesn't like it much.
