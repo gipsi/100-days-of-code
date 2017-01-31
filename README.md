@@ -5,16 +5,23 @@
 
 ## Template
 
-### Day : 2017-
-
-**Today's Progress:**
-
+### Day 31: 2017-01-31
+**Today's Progress:**pure csimage
 **Thoughts:**
 
 **Link to work:**
 
  
 I've joined the #100DaysOfCode Challenge
+
+
+# Day : 2017-
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
 
 ### Day 28: 2017-01-30
 **Today's Progress:**css pizza
