@@ -5,8 +5,21 @@
 
 ## Template
 
-### Day 31: 2017-01-31
-**Today's Progress:**pure csimage
+# Day : 2017-
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+# Day 30: 2017-02-01
+**Today's Progress:** pure css taco
+**Thoughts:**
+
+**Link to work:**
+
+### Day 29: 2017-01-31
+**Today's Progress:**pure css image hamburger
 **Thoughts:**
 
 **Link to work:**
@@ -15,15 +28,9 @@
 I've joined the #100DaysOfCode Challenge
 
 
-# Day : 2017-
-
+# Day 28: 2017-01-30
 **Today's Progress:**
-
-**Thoughts:**
-
-**Link to work:**
-
-### Day 28: 2017-01-30
+-30
 **Today's Progress:**css pizza
 **Thoughts:**learning
 **Link to work:** https://codepen.io/gipsi/pen/MJrGZB
