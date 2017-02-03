@@ -12,6 +12,16 @@
 **Thoughts:**
 
 **Link to work:**
+# Day 32: 2017-02-03
+**Today's Progress:**css lattice pumpkin pie.
+**Thoughts:**
+
+**Link to work:**
+# Day 31: 2017-02-02
+**Today's Progress:** css cheesecake
+**Thoughts:**
+
+**Link to work:**
 # Day 30: 2017-02-01
 **Today's Progress:** pure css taco
 **Thoughts:**
