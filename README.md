@@ -11,7 +11,14 @@
 
 **Thoughts:**
 
-**Link to work:**
+
+
+# Day 33: 2017-02-02
+
+**Today's Progress:**got the background colour to work for lattice pumpkin pie css image,  Cut out some clutter on Gipsi showcase
+**Thoughts:** Took ages to find why pie wasnt showing up ... it was no space between div and class in the html.  It's quite difficult to get the code right in Codepen on Android with lag. If not paying attention the cursor can skip to entirely th wrong place.  I tried   to change hyperpage background -2 to green, perusig some of w3colour namesn now it wont even go black again.
+**Link to work:** https://codepen.io/gipsi/full/VmzPJg/
+
 # Day 32: 2017-02-03
 **Today's Progress:**css lattice pumpkin pie.
 **Thoughts:**
