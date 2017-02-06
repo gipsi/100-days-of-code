@@ -12,6 +12,11 @@
 **Thoughts:**
 
 
+# Day : 2017-
+
+**Today's Progress:**
+
+**Thoughts:**
 
 # Day 33: 2017-02-02
 
