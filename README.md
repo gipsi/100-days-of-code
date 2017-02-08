@@ -4,19 +4,48 @@
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
 ## Template
+# Day : 2017
+**Today's Progress:**
 
-# Day : 2017-
+**Thoughts:**
+**Link to work:**
 
+# Day 39: 2017
 **Today's Progress:**
 
 **Thoughts:**
 
 
-# Day : 2017-
-
+# Day 38: 2017
 **Today's Progress:**
 
 **Thoughts:**
+**Link to work:**
+
+# Day 37: 2017
+**Today's Progress:**
+
+**Thoughts:**
+**Link to work:**
+
+# Day 36: 2017
+**Today's Progress:**
+
+**Thoughts:**
+**Link to work:**
+
+
+# Day 35: 2017
+**Today's Progress:**
+
+**Thoughts:**
+**Link to work:**
+
+# Day 34: 2017-02-03
+**Today's Progress:**
+
+**Thoughts:**
+**Link to work:**
 
 # Day 33: 2017-02-02
 
