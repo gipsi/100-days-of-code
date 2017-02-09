@@ -18,7 +18,7 @@
 
 # Day 40: 2017-02-09
 
-**Today's Progress:** playing around with css learned about inset box shadows and background gradients.
+**Today's Progress:** css vampire. Playing around with css learned about inset box shadows and background gradients.
 
 **Thoughts:** absorbing
 
@@ -27,7 +27,7 @@
 
 # Day 39: 2017
 
-**Today's Progress:**
+**Today's Progress:**  css zombie
 
 **Thoughts:**
 
@@ -36,7 +36,7 @@
 
 # Day 38: 2017
 
-**Today's Progress:**
+**Today's Progress:** css frankenstein
 
 **Thoughts:**
 
@@ -45,7 +45,7 @@
 
 # Day 37: 2017
 
-**Today's Progress:**
+**Today's Progress:** hyperpage on codepen
 
 **Thoughts:**
 
@@ -54,7 +54,7 @@
 
 # Day 36: 2017
 
-**Today's Progress:**
+**Today's Progress:** github
 
 **Thoughts:**
 
@@ -63,16 +63,16 @@
 
 # Day 35: 2017
 
-**Today's Progress:**
+**Today's Progress:** codepen
 
 **Thoughts:**
 
 **Link to work:**
 
 
-# Day 34: 2017-02-03
+# Day 34: 2017-02-03 
 
-**Today's Progress:**
+**Today's Progress:** codepen/github
 
 **Thoughts:**
 
