@@ -14,11 +14,24 @@
 **Link to work:**
 
 
+
+
+# Day 40: 2017-02-09
+
+**Today's Progress:** playing around with css learned about inset box shadows and background gradients.
+
+**Thoughts:** absorbing
+
+**Link to work:** https://codepen.io/gipsi/details/PWyRgG/
+
+
 # Day 39: 2017
 
 **Today's Progress:**
 
 **Thoughts:**
+
+**Link to work:**
 
 
 # Day 38: 2017
@@ -104,7 +117,7 @@
 **Link to work:**
 
 
-### Day 29: 2017-01-31
+# Day 29: 2017-01-31
 
 **Today's Progress:**pure css image hamburger
 
@@ -124,32 +137,43 @@
 **Link to work:** https://codepen.io/gipsi/pen/MJrGZB
 
 
-### Day 27: 2017-01-29
+# Day 27: 2017-01-29
+
 **Today's Progress:**Reflecting. Updating pen
+
 **Thoughts:**frustrating day. Power cut
-**Link to work:**pen
+
+**Link to work:** pen
 
 
-### Day 26  : 2017-01-28
+# Day 26  : 2017-01-28
 
-**Today's Progress:**Reading and updating blogs
+**Today's Progress:** Reading and updating blogs
 
-**Thoughts:**a bit of fcc thinking about style
+**Thoughts:**a bit of fcc thinking about style 
+
 **Link to work:**codepen portfolio
 
 
-### Day 25: 2017-01-27
+# Day 25: 2017-01-27
+
 **Today's Progress:** css pencil jar - done  on android
+
 **Thoughts:** Codepen doesn't like it much.
+
 **Link to work:** http://codepen.io/gipsi/pen/MJOybgTemplate
 
 
-** Day 24: 2017-01-26
+# Day 24: 2017-01-26
+
 ** Today's Progress:unfinished
+
 ** Thoughts:Had an idea for a calendar
+
 ** Link to work:https://codepen.io/gipsi/pen/YNrrwE
 
-### Day 23: 2017-01-25
+
+# Day 23: 2017-01-25
 
 **Today's Progress:**  Getting a overall idea in my mind of a consistent style for this weeks tasks.  Made a notepad and changed Mondays clock to match.
 
@@ -159,9 +183,9 @@ I started this task with a picture of a notebook, then dropped that idea.  Found
 **Link to work:** [A notepad](https://codepen.io/gipsi/full/NdvOoG/)
 
 
-### Day 22 2017-01-24
+# Day 22 2017-01-24
 
-**Today's Progress:** Todays #dailycssimage was a ruler
+**Today's Progress:** Todays dailycssimage was a ruler
 
 **Thoughts:** Some helpful tools I found doing Google searches
   >*[text shadow generator](https://css3gen.com/text-shadow/)
@@ -171,7 +195,7 @@ I started this task with a picture of a notebook, then dropped that idea.  Found
 **Link to work:**  http://codepen.io/gipsi/
 
 
- ### Day 21: "017-01-23 
+ # Day 21: "017-01-23 
 
  **Today's Progress:** Made a clock.
 
@@ -180,7 +204,7 @@ I started this task with a picture of a notebook, then dropped that idea.  Found
  **Link to work:** http://s.codepen.io/gipsi/debug/ygXexN/NjrYzyoZvKQA
 
 
-### Day 20 2017-01-22
+# Day 20 2017-01-22
 
 **Today's Progress:** yak shaving
 
@@ -189,7 +213,7 @@ I started this task with a picture of a notebook, then dropped that idea.  Found
 **Link to work:** https://codepen.io/gipsi/full/MJjxww/
 
 
-### Day 19: 2017-01-21
+# Day 19: 2017-01-21
 
 **Today's Progress:** Fiver - Another pure css image.
 Using: Notepade++, CodePen, Chrome Browser, Windows 7,  Clodinary, Picture Editor,
@@ -201,7 +225,7 @@ Android, WebSafe colour site. Internet router, pc, phone ...
 
 
 
-### Day 18: 2017-01-20
+# Day 18: 2017-01-20
  
 **Today's Progress:** 4/50 css images tiger
 
@@ -211,7 +235,7 @@ Android, WebSafe colour site. Internet router, pc, phone ...
 
 
  
-### Day 17: 2017-01-19
+# Day 17: 2017-01-19
 
 **Today's Progress:** Good progress with 3rd css image-beaver. It is different using pc tools
  not entirely better.  Indeed some things like taking screenshot and uploading to cloud feels easier on phone.
@@ -221,7 +245,7 @@ Android, WebSafe colour site. Internet router, pc, phone ...
  **Link to work:** https://codepen.io/gipsi/details/XppmNm
 
 
-### Day 16: 2017-01-18
+# Day 16: 2017-01-18
 
 **Today's Progress:** coded elephant picture, 2nd task for css daily challenge.  Slighly better than 1st image but still on a steep learning curve.  Getting the hang of doing it all on phone.
 
@@ -230,7 +254,7 @@ Android, WebSafe colour site. Internet router, pc, phone ...
 **Link to work:**  https://codepen.io/gipsi/pen/MJjxww
 
 
-### Day 15: 2017-01-17
+# Day 15: 2017-01-17
 
 **Today's Progress:** First css image for #cssdailyimages.  All done on Android phone. 
 
@@ -244,7 +268,7 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
 
 
 
-### Day  14: 2017-01-16
+# Day  14: 2017-01-16
 
  **Today's Progress:** Started  enthusiastically on css project, offline on phone using Code Book App.  Couldnt figure out how to set backround image.  Something to do with the href=url("style.css") part.  Kept trying different directory paths but no joy.
 
@@ -254,7 +278,7 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
  
  
 
-### Day 13: 2017-01-15
+# Day 13: 2017-01-15
 
 **Today's Progress:** From markdown to markup-html and css
 
@@ -265,7 +289,7 @@ then used the HTML and CSS template of a koala bear.  Modified it a bit in codep
 
 
 
- ### Day 12: 2017-01-14
+ # Day 12: 2017-01-14
 
  **Today's Progress:** Good progress with code editor on phone.  Made my 'core functionality html page' saved it and added a css colored background.
 
@@ -277,7 +301,7 @@ Online didnt go so well  and changing the background color of my portfolio page 
  
  
 
-### Day 11: 2017-01-13
+# Day 11: 2017-01-13
 
 **Today's Progress:** Testing different code editors on phone settled on AWD as it's the first one I successfully previewed the result.  
 
@@ -289,7 +313,7 @@ and The Jargon File. http://www.catb.org/jargon/html/R/recursive-acronym.html
 
 
 
-### Day 10 : 2017-01-12
+# Day 10 : 2017-01-12
 
 **Today's Progress:** Another lesson from Jeremy Keith's Resilient Web Design Chapter 6 Steps
 
@@ -320,7 +344,7 @@ to software. Read loads about this. Software development, Software engineering, 
 
 
 
-### Day 8:  2017-01-10
+# Day 8:  2017-01-10
 **Today's Progress:**  Important breakthrough reading [Jeremy Kieth's Resilient Web Design](https://resilientwebdesign.com)
 
 
@@ -349,7 +373,7 @@ Modifying code on codepen through android on different browsers and WindowsPC , 
 
 **Link to work:** [FreeCodeCamp PortFolio/CodePen ](https://codepen.io/gipsi/full/VmzPJg/)
 
-### Day  7: 2017-01-09
+# Day  7: 2017-01-09
 
 **Today's Progress:** HTML5, CSS3 and Bootstrap in CodePen. More progress with Portfolio 
 Changing colours and images, a bit of real text instead of "Kitty ipsum"
@@ -359,7 +383,7 @@ Changing colours and images, a bit of real text instead of "Kitty ipsum"
 
 **Link to work:** [Freecodecamp Portfolio on CodePen](http://codepen.io/gipsi/full/VmzPJg/)
 
-### Day 6: 2017-01-08
+# Day 6: 2017-01-08
 
 **Today's Progress:** Some tinkering with Freecodecamp portfolio on CodePen. Html hyperlinks.  Put in some images, buttons - placeholders.  Changed CSS background colours. Found out what target="blank" means from w3school.
 
@@ -368,7 +392,7 @@ Changing colours and images, a bit of real text instead of "Kitty ipsum"
 **Link to work:** [FreeCodeCamp Portfolio on CodePen](http://codepen.io/gipsi/full/VmzPJg/)
 
 
-### Day 5: 2017-01-07
+# Day 5: 2017-01-07
 
 **Today's Progress:** More work on this page using Google Chrome, Windows 7 Desktop and Atom editor.
 
@@ -403,7 +427,7 @@ Is an outline of the principles of Stoicism which he practiced.
 
 
 
-### Day 4: 2017-01-06
+# Day 4: 2017-01-06
 
 **Today's Progress:** Tidied up GitHub blog page.
 
@@ -413,7 +437,7 @@ Is an outline of the principles of Stoicism which he practiced.
 
 
 
-### Day 3: 2017-01-05
+# Day 3: 2017-01-05
 **Today's Progress:** Trying to figure out if I can switch off Jekyll Theme and
 use only html/css and also thinking about reversing this (bullet list) and write
 at the top, and put in chapters (blog style).
@@ -424,7 +448,7 @@ at the top, and put in chapters (blog style).
 
 
 
-### Day 2: 2017-01-04
+# Day 2: 2017-01-04
 
 **Today's Progress:** An Enki workout - Javascript Core
 
@@ -435,7 +459,7 @@ your 2017 Resolution”@MathieuDutour](https://blog.enki.com/make-open-source-yo
 
 
 
-### Day 1: 2017-01-03
+# Day 1: 2017-01-03
 
 **Today's Progress:** Learning [Markdown](https://daringfireball.net/projects/markdown/)
 
