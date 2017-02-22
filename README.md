@@ -13,7 +13,55 @@
 
 **Link to work:**
 
+### Day48: 2017-02-21 
 
+> **Today's Progress:**css Captain America
+
+> **Thoughts:**
+
+> **Link to work:**
+
+
+### Day 47: 2017-02-20 
+
+> **Today's Progress:**css Iron Man codepen
+
+> **Thoughts:**
+
+> **Link to work:**
+
+
+### Day 46: 2017-02-19 css Wolverine  
+
+> **Today's Progress:**css Wolverine Codepen
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 45: 2017-02-18
+
+> **Today's Progress:** Html-kit on eMachine Windows XP
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 44: 2017-02-17 
+
+> **Today's Progress:** The Missing link
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day43 : 2017-02-16 
+
+> **Today's Progress:**Reading a book about Gnu/Linux command line
+
+> **Thoughts:**
+
+> **Link to work:**
 
 
 # Day 40: 2017-02-09
