@@ -13,6 +13,124 @@
 
 **Link to work:**
 
+
+### Day 50: 2017-
+
+> **Today's Progress:** Icon for css daily images.
+
+> **Thoughts:** Getting back into css on phone.
+
+> **Link to work:** https://codepen.io/gipsi/pen/EWxQwy
+
+
+
+
+### Day 49: 2017-02-23
+
+> **Today's Progress:**Made an HTML,CSS and JavaScript page.
+
+> **Thoughts:**Took a while to work out how to view page in browser, one of those things that's really obvious once you've done it.
+
+> **Link to work:** https://gipsi.github.io
+
+### Day 48: 2017-02-22
+
+> **Today's Progress:**css Captain America
+
+> **Thoughts:**
+
+> **Link to work:**
+
+
+### Day 47: 2017-02-21
+
+> **Today's Progress:**css Iron Man codepen
+
+> **Thoughts:**
+
+> **Link to work:**
+
+
+### Day 46: 2017-02-20 css Wolverine  
+
+> **Today's Progress:**css Wolverine Codepen
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 45: 2017-02-19
+
+> **Today's Progress:** Html-kit on eMachine Windows XP
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 44: 2017-02-18
+
+> **Today's Progress:** The Missing link
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 43: 2017-02-17
+
+> **Today's Progress:**Reading a book about Gnu/Linux command line
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 42: 2017-02-16
+
+> **Today's Progress:**finished green lantern power ring and did some flexbox
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 41: 2017-02-15
+
+> **Today's Progress:**pure css green lantern badge - and heart shaped box
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 40: 2017-02-14
+
+
+> **Today's Progress:**pure css superman badge
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 39: 2017-02-13
+
+> **Today's Progress:** css for fun and gamification essay. Lots 
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 38: 2017-02-12
+
+> **Today's Progress:**revision. Intellectual humility and gamification.
+
+> **Thoughts:**
+
+> **Link to work:**
+
+### Day 37: 2017-02-11
+
+> **Today's Progress:** css moon
+
+> **Thoughts:**
+
+> **Link to work:**
 ### Day 49: 2017-02-22
 
 > **Today's Progress:**Made an HTML,CSS and JavaScript page.
