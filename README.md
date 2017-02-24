@@ -5,14 +5,10 @@
 
 ## Template
 
-# Day : 2017
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Link to work:**
-
+# Day 51: 2017- 02-23-
+**Today's Progress:**Exploring  Github found another book that looks worth reading.
+**Thoughts:**  Lots of interesting stuff.
+**Link to work:**https://github.com/learning-gardens/pattern_language/blob/master/README.md
 
 ### Day 50: 2017-
 
