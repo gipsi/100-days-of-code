@@ -3,12 +3,23 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
-## Template
+### Day : 2017-
 
-# Day 51: 2017- 02-23-
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
+
+# Day 51: 2017-02-23
+
 **Today's Progress:**Exploring  Github found another book that looks worth reading.
+
 **Thoughts:**  Lots of interesting stuff.
+
 **Link to work:**https://github.com/learning-gardens/pattern_language/blob/master/README.md
+
 
 ### Day 50: 2017-
 
@@ -19,8 +30,6 @@
 > **Link to work:** https://codepen.io/gipsi/pen/EWxQwy
 
 
-
-
 ### Day 49: 2017-02-23
 
 > **Today's Progress:**Made an HTML,CSS and JavaScript page.
@@ -28,6 +37,7 @@
 > **Thoughts:**Took a while to work out how to view page in browser, one of those things that's really obvious once you've done it.
 
 > **Link to work:** https://gipsi.github.io
+
 
 ### Day 48: 2017-02-22
 
