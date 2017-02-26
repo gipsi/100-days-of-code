@@ -3,14 +3,12 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
-### Day : 2017-
-
+### Day 54: 2017-02- 26
 **Today's Progress:**
 
 **Thoughts:**
 
-**Link to work:**
-
+**Link to work:**https://codepen.io/gipsi/pen/qrddqO
 
 # Day 51: 2017-02-23
 
