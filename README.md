@@ -2,6 +2,14 @@
 
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
+### Day 55: 2017-02- 27
+**Today's Progress:**
+
+**Thoughts:** got the fays muddled up - must sort this out asap
+**Link to work:#100DaysOfCode #301DaysofCode 054 #dailycssimages 28 icon #freeCodeCamp
+
+https://codepen.io/gipsi/pen/wJaOOV
+
 
 ### Day 54: 2017-02- 26
 **Today's Progress:**
