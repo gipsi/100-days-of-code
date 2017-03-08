@@ -1,7 +1,30 @@
 
 # 100 Days of Code - Log
-#100DaysOfCode #301DaysofCode 055  #FreeCodeCamp working on pure CSS3 hover dropdown menu nav bar.
+
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
+
+
+### 2017-03-08: Day 62
+
+#100DaysOfCode #301DaysofCode 062
+#dailycssimages 32 -  JavaScript logo- in a  #flexbox
+
+http://codepen.io/gipsi/pen/evgJja
+
+
+### 2017-03-07: Day 61
+#100DaysOfCode #301DaysofCode 061
+#dailycssimages 31 -  bar graph - with #flexbox
+
+https://codepen.io/gipsi/pen/KWNaBy
+
+
+### 2017-03-07: Day 60
+#100DaysOfCode #301DaysofCode 060
+#dailycssimages 30 -  download 
+
+https://t.co/aULEPtIT8F https://t.co/x4TbbKCuJz
+
 ###100DaysOfCode #301DaysofCode 059 
 #dailycssimages 29 cogs - animated with some @keyframes spin https://codepen.io/gipsi/pen/VpjNjb Day 58/59 2017-03-03/04
 
