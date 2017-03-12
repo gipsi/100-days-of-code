@@ -2,7 +2,17 @@
 # 100 Days of Code - Log
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
+### 2017-03-12: Day 66 Tweaking  css in CodePens. Learning about style guides.
+### 2017-03-11: Day 65
+#100DaysOfCode #301DaysofCode 065 CSS Flexbox Navbar
+https://t.co/WYDxehaqu6
+### 2017-03-10: Day 64 
+#100DaysOfCode #301DaysofCode 063/64 #FreeCodeCamp project:
+Trying to get the boxes to behave in a Flexbox navbar.
 
+### 2017-03-09: Day 63 
+#100DaysOfCode #301DaysofCode 063/64 #FreeCodeCamp project:
+Trying to get the boxes to behave in a Flexbox navbar.
 
 ### 2017-03-08: Day 62
 
