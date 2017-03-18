@@ -2,7 +2,34 @@
 # 100 Days of Code - Log
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
-### 2017-03-12: Day 66 Tweaking  css in CodePens. Learning about style guides.
+
+* 2017-03-17: Day 69
+#100DaysOfCode #301DaysofCode 069
+#dailycssimages 35 - Elm logo - so far made first triangle by tweaking this guide: 
+
+* 2017-03-16: Day 68 
+#100DaysOfCode #301DaysofCode 068
+#dailycssimages 34 [- React logo -](https://codepen.io/gipsi/pen/ZeXarN)  … repeating-radial-gradient not working in CodePen
+ …
+
+* 2017-03-15: Day 67
+#100DaysOfCode #301DaysofCode 067
+#dailycssimages 34 - React logo  - using one div and puzzling over css - getting there
+
+* 2017-03-14: Day 66
+#100DaysOfCode #301DaysofCode 066
+#dailycssimages 33 - [Vue  logo -](http://codepen.io/gipsi/pen/zZzmyg)  …Translate from Spanish
+
+* 2017-03-13: Day 65
+#100DaysOfCode #301DaysofCode 065 CSS [Flexbox Navbar](http://codepen.io/gipsi/pen/evWGgX) (Translate from Czech? Helpful suggestion from twitter about 
+CodePen link.)  
+
+
+* 2017-03-12: Day 64 
+Still trying to get the boxes to behave in a Flexbox navbar.
+
+
+### 2017-03-12: Day 66  Learning about style guides.
 ### 2017-03-11: Day 65
 #100DaysOfCode #301DaysofCode 065 CSS Flexbox Navbar
 https://t.co/WYDxehaqu6
