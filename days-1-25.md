@@ -173,7 +173,7 @@ Identify core functionality.Make that functionality available using the simplest
  
  
  
- #•#•#• •D•a•y• •9:• •2•0•1•7•-•01-11•
+ # Day 9: 2017-01-11
 
 **Today's Progress:**  html and css on my webpage project.  Looked up how to make some text into a link then did it three times.
 
