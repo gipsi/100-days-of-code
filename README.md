@@ -18,7 +18,7 @@
 
 * 2017-03-14: Day 66
 #100DaysOfCode #301DaysofCode 066
-#dailycssimages 33 - [Vue  logo -](http://codepen.io/gipsi/pen/zZzmyg)  …Translate from Spanish
+#dailycssimages 33 - [Vue  logo -](http://codepen.io/gipsi/pen/zZzmyg)  …Translate from Spanish  Learning about style guides.
 
 * 2017-03-13: Day 65
 #100DaysOfCode #301DaysofCode 065 CSS [Flexbox Navbar](http://codepen.io/gipsi/pen/evWGgX) (Translate from Czech? Helpful suggestion from twitter about 
@@ -28,25 +28,14 @@ CodePen link.)
 * 2017-03-12: Day 64 
 Still trying to get the boxes to behave in a Flexbox navbar.
 
-
-### 2017-03-12: Day 66  Learning about style guides.
-### 2017-03-11: Day 65
-#100DaysOfCode #301DaysofCode 065 CSS Flexbox Navbar
-https://t.co/WYDxehaqu6
-### 2017-03-10: Day 64 
+* 2017-03-09: Day 63 
 #100DaysOfCode #301DaysofCode 063/64 #FreeCodeCamp project:
 Trying to get the boxes to behave in a Flexbox navbar.
 
-### 2017-03-09: Day 63 
-#100DaysOfCode #301DaysofCode 063/64 #FreeCodeCamp project:
-Trying to get the boxes to behave in a Flexbox navbar.
-
-### 2017-03-08: Day 62
+* 2017-03-08: Day 62
 
 #100DaysOfCode #301DaysofCode 062
-#dailycssimages 32 -  JavaScript logo- in a  #flexbox
-
-http://codepen.io/gipsi/pen/evgJja
+#dailycssimages 32 [- JavaScript logo- with flexbox](http://codepen.io/gipsi/pen/evgJja)
 
 
 ### 2017-03-07: Day 61
