@@ -3,6 +3,64 @@
 
 # I've joined the [#100DaysOfCode](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) Challenge
 
+
+* 2017-03-29: #100DaysOfCode #301DaysofCode 081
+
+* 2017-03-28: #100DaysOfCode #301DaysofCode 080
+
+#100DaysOfCode #301DaysofCode 079
+#dailycssimages  Img 40 html and pure css 2DS with molecules - atomic design
+
+* 2017-03-27: #100DaysOfCode #301DaysofCode 079
+What is the full stack? https://dev.to/evgenyk/a-mythical-full-stack-developer
+
+learn u the node.js for much win: https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9
+
+
+* 2017-03-26: #100DaysOfCode #301DaysofCode 078
+Lots of courses:
+
+https://code.likeagirl.io/beginners-guide-to-programming-15c06bfc2d72
+
+#100DaysOfCode #301DaysofCode 078
+Using external stylesheets instead of inline, this worked fine yesterday. Today no.
+
+* 2017-03-25: #100DaysOfCode #301DaysofCode 077
+
+good course review: http://doxanthropos.github.io/blog/2017/03/25/html5-canvas-from-pixels-to-animation/
+
+* 2017-03-24: #100DaysOfCode #301DaysofCode 076
+
+#100DaysOfCode #301DaysofCode 076
+Looking for a way to have audio file sounds play on hover - css keyboard
+
+* 2017-03-23: #100DaysOfCode #301DaysofCode 075
+https://insights.stackoverflow.com/survey/2017#most-popular-technologies
+
+* 2017-03-22: #100DaysOfCode #301DaysofCode 074
+https://medium.freecodecamp.com/we-launched-an-open-source-product-what-happens-now-e586b6d8b99c
+
+* 2017-03-21: #100DaysOfCode #301DaysofCode 073
+http://www.economist.com/news/books-and-arts/21718850-describing-language-objectively-need-not-meaning-doing-so-dispassionately-subversive-facts
+
+* 2017-03-20:#100DaysOfCode #301DaysofCode 072
+http://www.colorfonts.wtf/
+
+* 2017-03-19:  #100DaysOfCode #301DaysofCode 071
+Getting into this thing called "Design Systems"? 
+
+Here's 18 issues of the @design__systems with lots of recourses:
+
+http://designsystems.curated.co/issues 
+
+
+* 2017-03-18: Day: 70
+Gipsi Tana @gipsitana  Mar 18 #100DaysOfCode #301DaysofCode 070
+More
+ #100DaysOfCode #301DaysofCode 070
+#dailycssimages 36 - Elm logo - Turned out to be an absorbing Tangram puzzle 
+https://codepen.io/gipsi/pen/MprOPq …
+
 * 2017-03-17: Day 69
 #100DaysOfCode #301DaysofCode 069
 #dailycssimages 35 - Elm logo - so far made first triangle by tweaking this guide: 
