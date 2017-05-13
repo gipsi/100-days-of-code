@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](<a href ="gipsi.github.io"> log </a>)
+* [Log - click here to see my progress](gipsi.github.io)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
