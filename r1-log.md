@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 5 - [Gipsi]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [February 13, Thursday 2020].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R5D1 
+Started a Weather A
 
-### R1D2
+### R5D2
+
+Started a static site about hypermedia. https://vanilla.gipsi.now.sh
