@@ -15,4 +15,4 @@ Hypermedia  [gipsi.github.io/hypermedia](https://gipsi.github.io/hypermedia)
 
 ## R5D4
 16-02-2020
-Hypertext [gipsi.github.io/hypertext](https://gipsi.github.io/hypertext)
+Hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/hypertext)
