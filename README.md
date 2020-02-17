@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](gipsi.github.io)
+* [Log - click here to see my progress](https://github.com/gipsi/100-days-of-code/blob/master/R5log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
