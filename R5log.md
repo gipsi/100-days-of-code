@@ -1,0 +1,18 @@
+ # R5-Log
+ Start: 13 February, Thursday 2020
+
+## R5D1
+13-02-2020
+Let the fun begin! [gipsi.static.fun](https://gipsi.static.fun)
+
+## R5D2
+14-02-2020
+A Static Site [vanilla.gipsi.now.sh](https://vanilla.gipsi.now.sh)
+
+## R5D3
+15-02-2020
+Hypermedia  [gipsi.github.io/hypermedia](https://gipsi.github.io/hypermedia)
+
+## R5D4
+16-02-2020
+Hypertext [gipsi.github.io/hypertext](https://gipsi.github.io/hypertext)
