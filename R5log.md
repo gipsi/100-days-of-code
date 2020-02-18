@@ -16,3 +16,7 @@ Hypermedia  [gipsi.github.io/hypermedia](https://gipsi.github.io/hypermedia)
 ## R5D4
 16-02-2020
 Hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/hypermedia/hypertext)
+
+## R5D5
+17-02-2020
+Axial hypertext [gipsi.github.io/hypermedia/axial](https://gipsi.github.io/hypermedia/axial.html)
