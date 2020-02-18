@@ -19,4 +19,4 @@ Hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/hyperme
 
 ## R5D5
 17-02-2020
-Axial hypertext [gipsi.github.io/hypermedia/axial](https://gipsi.github.io/hypermedia/axial.html)
+Axial hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/hypermedia/hypertext.html)
