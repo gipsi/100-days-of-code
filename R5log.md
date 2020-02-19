@@ -20,3 +20,7 @@ Hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/hyperme
 ## R5D5
 17-02-2020
 Axial hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/hypermedia/hypertext.html)
+
+## R5D6
+18-02-2020
+Hypermedia home page, call to action button, return home sticky footer and arborescent links.
