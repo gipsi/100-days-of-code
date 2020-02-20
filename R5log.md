@@ -24,3 +24,7 @@ Axial hypertext [gipsi.github.io/hypermedia/hypertext](https://gipsi.github.io/h
 ## R5D6
 18-02-2020
 Hypermedia home page, call to action button, return home sticky footer and arborescent links.
+
+## R5D7
+19-02-2020
+Hypertext's arboreal form begins to linguistically resemble silviculture.
