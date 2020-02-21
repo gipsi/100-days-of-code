@@ -31,8 +31,10 @@ Hypertext's arboreal form begins to linguistically resemble silviculture.
 
 ## R5D8
 20-02-2020
+
 A moment to learn a little about Larry Tesler who died 
-This week. RIP.
+this week. RIP.
+
 "Conceived, implemented and usability-tested 
 GUI (graphical user interface) and 
 IDE (integrated development environment) capabilities 
@@ -43,7 +45,7 @@ or copy text without entering a mode using cut/copy and paste…
 type or paste find & replace text into a 
 form that can be edited before and after searching…"
 
-[https://youtu.be/Dhmz68CII9Y]
-("..copy and paste came from Gypsy..")
+
+["copy and paste came from Gypsy"](https://youtu.be/Dhmz68CII9Y)
 
 
