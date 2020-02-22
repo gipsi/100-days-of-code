@@ -49,3 +49,11 @@ form that can be edited before and after searching…"
 ["copy and paste came from Gypsy"](https://youtu.be/Dhmz68CII9Y)
 
 
+## R5D9
+21-02-2020
+Checking out how others are doing on the coding journey
+through tweets.
+Amongst the branching hyperlinks
+ - an emergent tree thing.
+
+https://gipsi.github.io/TreeGenerator/
