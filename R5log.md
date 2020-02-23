@@ -58,3 +58,18 @@ Amongst the branching hyperlinks
  - an emergent tree thing.
 
 https://gipsi.github.io/TreeGenerator/
+
+## R5D10
+22-02-2020
+
+Semiotic termiology
+
+https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html
+
+#100DaysofCode day 10
+
+A lot of copy and pasting hypertext tree 
+like construction (coding) and an encounter 
+with semiotic terminology for meaningful  
+deconstruction (decoding).
+
