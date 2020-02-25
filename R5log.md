@@ -73,3 +73,15 @@ like construction (coding) and an encounter
 with semiotic terminology for meaningful  
 deconstruction (decoding).
 
+## R5D11
+23-02-2020
+Vanilla seed HTML project. Links.
+
+## R5D12
+24-02-2020
+
+Nearly lost the plot when a power cut made 
+the project I'm coding on the phone disappear.
+
+
+
