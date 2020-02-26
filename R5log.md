@@ -84,4 +84,16 @@ Nearly lost the plot when a power cut made
 the project I'm coding on the phone disappear.
 
 
+## R5D13
+25-02-2020
 
+Obsessive two days coding Hypermedia site.
+A stormy night kept me awake until 6 the first
+night but a more sensible 3 the next.
+The idea took longer to follow through than I
+thought but it was a good exercise in staying 
+focused and finishing what I set out to do.
+First day I coded all the files and folders on phone.
+Second day put all the files in GitHub repo.
+
+https://gipsi.github.io/hypermedia/pages/hypertext.html
