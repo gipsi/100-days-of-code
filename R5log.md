@@ -97,3 +97,24 @@ First day I coded all the files and folders on phone.
 Second day put all the files in GitHub repo.
 
 https://gipsi.github.io/hypermedia/pages/hypertext.html
+
+## R5D14
+26-02-2020
+
+SEO and Lighthouse
+Distracted by events .. COV19; Refugees, stockmarkets, supply chains.
+
+## R5D15
+27-02-2020
+Missed a day, still distracted. weather aweful.
+
+## R5D16
+28-02-3020
+
+So did totally wrong tweet.
+
+#100DaysOfCode day 14
+
+Codes: a combination of semiotic systems, a supersystem, that function as general maps of meaning, belief systems about oneself and others, which imply views and attitudes about how the world is and/or ought to be. Codes are where semiotics and social structure and values connect.
+
+https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html
