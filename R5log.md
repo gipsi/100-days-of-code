@@ -106,7 +106,7 @@ Distracted by events .. COV19; Refugees, stockmarkets, supply chains.
 
 ## R5D15
 27-02-2020
-Missed a day, still distracted. weather aweful.
+Missed a day, still distracted. weather awful.
 
 ## R5D16
 28-02-3020
@@ -118,3 +118,51 @@ So did totally wrong tweet.
 Codes: a combination of semiotic systems, a supersystem, that function as general maps of meaning, belief systems about oneself and others, which imply views and attitudes about how the world is and/or ought to be. Codes are where semiotics and social structure and values connect.
 
 https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html
+
+
+## 100DaysOfCode day 16
+29-02-2020
+Confused with the days already - It was my birthday, I do know that.
+<!--Reads comments!-->
+http://html5reset.org
+
+
+## 100DaysOfCode day 17
+1-03-2020
+Reading lots about when to use buttons or anchor tags.
+
+## 100DaysOfCode day 18
+2-03-2020
+I styled links to look like buttons for my project.
+This was not a good idea. 
+This article about [links v buttons by Marcy Sutton](https://marcysutton.com/links-vs-buttons-in-modern-web-applications) in particular reminded me why I need to focus on the foundations.
+
+
+## 100DaysOfCode day 19
+3-02-2020
+So far this round, all coding has been done on Android phone.
+Spck editor is very good, but today I couldn't copy and paste with it
+so caved in and switched to desktop. I was going to try do the whole 
+100 days of coding on the phone and though I was enjoying the challenge
+the results don't scale up well when viewed on larger screen.
+
+I also decided to use w3.org stylesheets after trying lots of ways of
+styling links in CSS and getting stuck on choosing colours which look
+very different with a hover, or focus etc.  LoVe Fears HAte, link, visited,
+focus, hover, active.
+
+Updated about half the files of my project.
+
+## 100DaysOfCode day 20
+4-03-2020
+Finished updating the files and feeling better about focusing on how content
+is presented with HTML.  Not so much how the code looks or even the presentation
+for that matter, functionality and where it leads.
+
+Yesterday I cloned the repo off GitHub to work on locally.  When I finished today
+I used Git Bash to add, commit, push the code back to the remote repository.  
+Sounds easy!  It took ages to figure out because Git told me it was all done when
+it wasn't changing anything.  
+
+
+
