@@ -113,32 +113,32 @@ Missed a day, still distracted. weather awful.
 
 So did totally wrong tweet.
 
-#100DaysOfCode day 14
+## R5D14
 
 Codes: a combination of semiotic systems, a supersystem, that function as general maps of meaning, belief systems about oneself and others, which imply views and attitudes about how the world is and/or ought to be. Codes are where semiotics and social structure and values connect.
 
 https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html
 
 
-## 100DaysOfCode day 16
+## R%D16
 29-02-2020
 Confused with the days already - It was my birthday, I do know that.
 <!--Reads comments!-->
 http://html5reset.org
 
 
-## 100DaysOfCode day 17
+## R5D17
 1-03-2020
 Reading lots about when to use buttons or anchor tags.
 
-## 100DaysOfCode day 18
+## R5D18
 2-03-2020
 I styled links to look like buttons for my project.
 This was not a good idea. 
 This article about [links v buttons by Marcy Sutton](https://marcysutton.com/links-vs-buttons-in-modern-web-applications) in particular reminded me why I need to focus on the foundations.
 
 
-## 100DaysOfCode day 19
+## R5D19
 3-02-2020
 So far this round, all coding has been done on Android phone.
 Spck editor is very good, but today I couldn't copy and paste with it
@@ -153,7 +153,7 @@ focus, hover, active.
 
 Updated about half the files of my project.
 
-## 100DaysOfCode day 20
+## R5D20
 4-03-2020
 Finished updating the files and feeling better about focusing on how content
 is presented with HTML.  Not so much how the code looks or even the presentation
@@ -162,7 +162,30 @@ for that matter, functionality and where it leads.
 Yesterday I cloned the repo off GitHub to work on locally.  When I finished today
 I used Git Bash to add, commit, push the code back to the remote repository.  
 Sounds easy!  It took ages to figure out because Git told me it was all done when
-it wasn't changing anything.  
+it wasn't changing anything.
+
+StackOverflow had the best solution after trawling through GitHub docs and a quick visit 
+to BitBucket Tutorial.
+
+## R5D21
+5-03-2020
+Hypermedia project latest: Not too happy with how the links don't work on my Android phone.
+They worked alright on desktop, but it's impossible to tap the last list item link without
+hitting footer link instead and some of them don't seem to work at all.  Perhaps navigation 
+at the top would be better.
+
+Tried basscss on welcome page after reading about functional css on HTML Goodies. Google lighthouse 
+results were better.
+
+## R5D22
+6-03-2020
+Started with Brad Frost's blog post and Front-end-checklist, watched video tutorial about the 
+Wardley mapping tool.  Made website with Joomla CMS.
+
+I want to know the size of a linked page before I click it! https://webwewant.fyi/wants/131/ 
+
+
+
 
 
 
