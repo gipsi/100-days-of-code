@@ -184,8 +184,49 @@ Wardley mapping tool.  Made website with Joomla CMS.
 
 I want to know the size of a linked page before I click it! https://webwewant.fyi/wants/131/ 
 
+## R5D23
+7-03-2020
+• Learnt some more about CSS design systems: basscss, tachyons, GitHub primer, etc.
+• HTML  improvements for lots of files in personal project. 
+• Bash and GitHub practice.
+• Perforamce test with Measure.
 
+## R5D24
+8-03-2020
+• Hyperlinked network as part of my project.  http://draw.io to visualise.  
+• Spck editor is great now copy, paste is working again so coding on phone.
+• How to eliminate render-blocking with Google Developers http://web.dev.
+Also: Serverless Stack - Building a Full-Stack App with Serverless and React https://serverless-stack.com
 
+## R5D25
+9-03-2020
+➼ Started Next.js app.
+➼ Navigated between pages.
+➼ Using shared components.
+I just got 185 points
+Sparkles
+ on: [Next.js](https://nextjs.org/learn/basics/getting-started)
+ 
 
+## R5D26
+10-03-2020
+• Used editor on phone to make
+   lots of pages for hyperlinked     
+   network.
+• Transfered to PC to update local   
+    version.
+• Git Bash error messages 
+    helped me figure out merge 
+    conflicts etc.
+• Repo updated!
 
-
+## R5D27
+13-03-2020
+Updates to project:
+• Found and fixed some faulty links.
+• Cloned GitHub repo into Glitch.
+• Reformatted code with magic  
+    button. (Delighted with this as 
+    the code is not tidy where I focus
+    more on what it does).
+https://gipsi-hypermedia.glitch.me
