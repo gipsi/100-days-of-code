@@ -230,3 +230,11 @@ Updates to project:
     the code is not tidy where I focus
     more on what it does).
 https://gipsi-hypermedia.glitch.me
+
+## R5D28
+14-03-2020
+Updates to project:
+. JS theme switcher with radio buttons, dropdown menu and links.
+. Replaced PNG illustration with SVG.
+. Delved into lighthouse report on render blocking.
+https://vanilla.gipsi.now.sh/
